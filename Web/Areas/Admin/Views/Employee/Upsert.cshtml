@@ -1,0 +1,72 @@
+﻿@model NetTask.Core.ViewModels.EmployeeViewModel
+
+<div class="card shadow border-0 my-4">
+    <div class="card-header bg-secondary bg-gradient ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2"> @(Model.Employee.Id != 0 ? "Update" : "Create") Employee</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <form method="post" class="row" enctype="multipart/form-data">
+            <input asp-for="Employee.Id" hidden />
+            <div class="border p-3">
+                @*<div asp-validation-summary="ModelOnly"></div>*@
+                <div class="form-floating py-2 col-12">
+                    <input asp-for="Employee.FirstName" class="form-control border-0 shadow" />
+                    <label asp-for="Employee.FirstName" class="ms-2"></label>
+                    <span asp-validation-for="Employee.FirstName" class="text-danger"></span>
+                </div>
+                <div class="form-floating py-2 col-12">
+                    <input asp-for="Employee.LastName" class="form-control border-0 shadow" />
+                    <label asp-for="Employee.LastName" class="ms-2"></label>
+                    <span asp-validation-for="Employee.LastName" class="text-danger"></span>
+                </div>
+
+                <div class="form-floating py-2 col-12">
+                    <input asp-for="Employee.Salary" class="form-control border-0 shadow" />
+                    <label asp-for="Employee.Salary" class="ms-2"></label>
+                    <span asp-validation-for="Employee.Salary" class="text-danger"></span>
+                </div>
+                <div class="form-floating py-2 col-12">
+                    <select asp-for="@Model.Employee.DepartmentId" asp-items="@Model.DepartmentList" class="form-select border-0 shadow">
+                        <option disabled selected>--Select Category--</option>
+                    </select>
+                    <label asp-for="Employee.DepartmentId" class="ms-2"></label>
+                    <span asp-validation-for="Employee.DepartmentId" class="text-danger"></span>
+                </div>
+                <div class="form-floating py-2 col-12">
+                    <input type="file" name="file" class="form-control border-0 shadow" />
+                    <label asp-for="Employee.ImageUrl" class="ms-2"></label>
+                </div>
+                <div class="col-2">
+                    <img src="@Model.Employee.ImageUrl" width="100%" style="border-radius:5px; border:1px solid #bbb9b9" />
+                </div>
+                <div class="row pt-2">
+                    <div class="col-6 col-md-3">
+                        @if (Model.Employee.Id != 0)
+                        {
+                            <button type="submit" class="btn btn-primary form-control">Update</button>
+                        }
+                        else
+                        {
+                            <button type="submit" class="btn btn-primary form-control">Create</button>
+                        }
+                    </div>
+                    <div class="col-6 col-md-3">
+                        <a asp-area="Admin" asp-controller="Employee" asp-action="Index" class="btn btn-outline-primary border  form-control">
+                            Back to List
+                        </a>
+                    </div>
+                </div>
+
+
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

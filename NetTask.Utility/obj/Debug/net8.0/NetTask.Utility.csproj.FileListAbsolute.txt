@@ -1,0 +1,11 @@
+L:\Job Tasks\Arij\NetTask.Utility\bin\Debug\net8.0\NetTask.Utility.deps.json
+L:\Job Tasks\Arij\NetTask.Utility\bin\Debug\net8.0\NetTask.Utility.dll
+L:\Job Tasks\Arij\NetTask.Utility\bin\Debug\net8.0\NetTask.Utility.pdb
+L:\Job Tasks\Arij\NetTask.Utility\obj\Debug\net8.0\NetTask.Utility.GeneratedMSBuildEditorConfig.editorconfig
+L:\Job Tasks\Arij\NetTask.Utility\obj\Debug\net8.0\NetTask.Utility.AssemblyInfoInputs.cache
+L:\Job Tasks\Arij\NetTask.Utility\obj\Debug\net8.0\NetTask.Utility.AssemblyInfo.cs
+L:\Job Tasks\Arij\NetTask.Utility\obj\Debug\net8.0\NetTask.Utility.csproj.CoreCompileInputs.cache
+L:\Job Tasks\Arij\NetTask.Utility\obj\Debug\net8.0\NetTask.Utility.dll
+L:\Job Tasks\Arij\NetTask.Utility\obj\Debug\net8.0\refint\NetTask.Utility.dll
+L:\Job Tasks\Arij\NetTask.Utility\obj\Debug\net8.0\NetTask.Utility.pdb
+L:\Job Tasks\Arij\NetTask.Utility\obj\Debug\net8.0\ref\NetTask.Utility.dll

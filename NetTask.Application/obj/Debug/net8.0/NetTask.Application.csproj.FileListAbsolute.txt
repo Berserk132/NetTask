@@ -1,0 +1,15 @@
+L:\Job Tasks\Arij\NetTask.Application\bin\Debug\net8.0\NetTask.Application.deps.json
+L:\Job Tasks\Arij\NetTask.Application\bin\Debug\net8.0\NetTask.Application.dll
+L:\Job Tasks\Arij\NetTask.Application\bin\Debug\net8.0\NetTask.Application.pdb
+L:\Job Tasks\Arij\NetTask.Application\bin\Debug\net8.0\NetTask.Core.dll
+L:\Job Tasks\Arij\NetTask.Application\bin\Debug\net8.0\NetTask.Core.pdb
+L:\Job Tasks\Arij\NetTask.Application\obj\Debug\net8.0\NetTask.Application.csproj.AssemblyReference.cache
+L:\Job Tasks\Arij\NetTask.Application\obj\Debug\net8.0\NetTask.Application.GeneratedMSBuildEditorConfig.editorconfig
+L:\Job Tasks\Arij\NetTask.Application\obj\Debug\net8.0\NetTask.Application.AssemblyInfoInputs.cache
+L:\Job Tasks\Arij\NetTask.Application\obj\Debug\net8.0\NetTask.Application.AssemblyInfo.cs
+L:\Job Tasks\Arij\NetTask.Application\obj\Debug\net8.0\NetTask.Application.csproj.CoreCompileInputs.cache
+L:\Job Tasks\Arij\NetTask.Application\obj\Debug\net8.0\NetTask..BF6EC22C.Up2Date
+L:\Job Tasks\Arij\NetTask.Application\obj\Debug\net8.0\NetTask.Application.dll
+L:\Job Tasks\Arij\NetTask.Application\obj\Debug\net8.0\refint\NetTask.Application.dll
+L:\Job Tasks\Arij\NetTask.Application\obj\Debug\net8.0\NetTask.Application.pdb
+L:\Job Tasks\Arij\NetTask.Application\obj\Debug\net8.0\ref\NetTask.Application.dll

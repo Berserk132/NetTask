@@ -1,0 +1,24 @@
+﻿<h1>Tickets</h1>
+
+@if (User.IsInRole(Roles.Role_Admin))
+{
+    <p>
+        <a asp-action="Upsert">Create New</a>
+    </p>
+}
+
+<table id="tblData" class="table table-bordered table-striped" style="width:100%">
+    <thead>
+        <tr>
+            <th>Ticket Name</th>
+            <th>Ticket Status</th>
+            <th></th>
+            <th style='@(User.IsInRole(Roles.Role_Admin) ? "display: block;" : "display: none;")'></th>
+        </tr>
+    </thead>
+</table>
+
+
+@section Scripts {
+    <script src="~/js/ticket.js"></script>
+}

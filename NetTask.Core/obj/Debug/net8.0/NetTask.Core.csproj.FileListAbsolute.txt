@@ -1,0 +1,12 @@
+L:\Job Tasks\Arij\NetTask.Core\bin\Debug\net8.0\NetTask.Core.deps.json
+L:\Job Tasks\Arij\NetTask.Core\bin\Debug\net8.0\NetTask.Core.dll
+L:\Job Tasks\Arij\NetTask.Core\bin\Debug\net8.0\NetTask.Core.pdb
+L:\Job Tasks\Arij\NetTask.Core\obj\Debug\net8.0\NetTask.Core.csproj.AssemblyReference.cache
+L:\Job Tasks\Arij\NetTask.Core\obj\Debug\net8.0\NetTask.Core.GeneratedMSBuildEditorConfig.editorconfig
+L:\Job Tasks\Arij\NetTask.Core\obj\Debug\net8.0\NetTask.Core.AssemblyInfoInputs.cache
+L:\Job Tasks\Arij\NetTask.Core\obj\Debug\net8.0\NetTask.Core.AssemblyInfo.cs
+L:\Job Tasks\Arij\NetTask.Core\obj\Debug\net8.0\NetTask.Core.csproj.CoreCompileInputs.cache
+L:\Job Tasks\Arij\NetTask.Core\obj\Debug\net8.0\NetTask.Core.dll
+L:\Job Tasks\Arij\NetTask.Core\obj\Debug\net8.0\refint\NetTask.Core.dll
+L:\Job Tasks\Arij\NetTask.Core\obj\Debug\net8.0\NetTask.Core.pdb
+L:\Job Tasks\Arij\NetTask.Core\obj\Debug\net8.0\ref\NetTask.Core.dll

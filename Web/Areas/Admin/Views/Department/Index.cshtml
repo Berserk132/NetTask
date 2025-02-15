@@ -1,0 +1,26 @@
+﻿@model IEnumerable<NetTask.Core.ViewModels.DepartmentEmployeeViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Departments</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table id="tblData" class="table table-bordered table-striped" style="width:100%">
+    <thead>
+        <tr>
+            <th>Department Name</th>
+            <th>Total Employees</th>
+            <th>Sum of Salaries</th>
+            <th></th>
+        </tr>
+    </thead>
+</table>
+
+
+@section Scripts {
+    <script src="~/js/department.js"></script>
+}

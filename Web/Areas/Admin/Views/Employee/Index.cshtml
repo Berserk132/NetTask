@@ -1,0 +1,27 @@
+﻿@model IEnumerable<NetTask.Core.Employee>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Employees</h1>
+
+<p>
+    <a asp-area="Identity" asp-page="/Account/Register">Create New</a>
+</p>
+<table id="tblData" class="table table-bordered table-striped" style="width:100%">
+    <thead>
+        <tr>
+            <th>Avatar</th>
+            <th>Name</th>
+            <th>Salary</th>
+            <th>Department</th>
+            <th></th>
+        </tr>
+    </thead>
+</table>
+
+
+@section Scripts {
+    <script src="~/js/employee.js"></script>
+}

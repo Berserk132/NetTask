@@ -1,0 +1,17 @@
+L:\Job Tasks\Arij\NetTask.Infrastructure\bin\Debug\net8.0\NetTask.Infrastructure.deps.json
+L:\Job Tasks\Arij\NetTask.Infrastructure\bin\Debug\net8.0\NetTask.Infrastructure.runtimeconfig.json
+L:\Job Tasks\Arij\NetTask.Infrastructure\bin\Debug\net8.0\NetTask.Infrastructure.dll
+L:\Job Tasks\Arij\NetTask.Infrastructure\bin\Debug\net8.0\NetTask.Infrastructure.pdb
+L:\Job Tasks\Arij\NetTask.Infrastructure\bin\Debug\net8.0\NetTask.Core.dll
+L:\Job Tasks\Arij\NetTask.Infrastructure\bin\Debug\net8.0\NetTask.Core.pdb
+L:\Job Tasks\Arij\NetTask.Infrastructure\obj\Debug\net8.0\NetTask.Infrastructure.csproj.AssemblyReference.cache
+L:\Job Tasks\Arij\NetTask.Infrastructure\obj\Debug\net8.0\NetTask.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+L:\Job Tasks\Arij\NetTask.Infrastructure\obj\Debug\net8.0\NetTask.Infrastructure.AssemblyInfoInputs.cache
+L:\Job Tasks\Arij\NetTask.Infrastructure\obj\Debug\net8.0\NetTask.Infrastructure.AssemblyInfo.cs
+L:\Job Tasks\Arij\NetTask.Infrastructure\obj\Debug\net8.0\NetTask.Infrastructure.csproj.CoreCompileInputs.cache
+L:\Job Tasks\Arij\NetTask.Infrastructure\obj\Debug\net8.0\NetTask..CCDB3615.Up2Date
+L:\Job Tasks\Arij\NetTask.Infrastructure\obj\Debug\net8.0\NetTask.Infrastructure.dll
+L:\Job Tasks\Arij\NetTask.Infrastructure\obj\Debug\net8.0\refint\NetTask.Infrastructure.dll
+L:\Job Tasks\Arij\NetTask.Infrastructure\obj\Debug\net8.0\NetTask.Infrastructure.pdb
+L:\Job Tasks\Arij\NetTask.Infrastructure\obj\Debug\net8.0\NetTask.Infrastructure.genruntimeconfig.cache
+L:\Job Tasks\Arij\NetTask.Infrastructure\obj\Debug\net8.0\ref\NetTask.Infrastructure.dll
